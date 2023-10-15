@@ -22,3 +22,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+#custom
+packages/
+obj/
+bin/
